@@ -1,0 +1,1 @@
+# python-analiza-jakosci-zdjec
